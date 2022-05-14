@@ -1,2 +1,1 @@
-# frontend-mentor-challenge7
-Frontend Mentor single price challenge
+In this project I used Grid system and it makes responsive design more easy...
